@@ -1,0 +1,52 @@
+h1{
+    background-color: powderblue;
+    color: salmon;
+    padding: 20px 16px 18px 22px;
+    margin: 10px;
+    text-align: center;
+    font-style: oblique;
+}
+.body{
+    background-color: lightyellow;
+    margin: 10px;
+    padding: 20px;
+}
+h2{
+    background-color: rgb(208, 243, 208);
+    padding: 20px;
+    color: rgb(49, 47, 15);
+    font-style: italic;
+}
+p{
+    background-color:powderblue;
+    color: rgb(15, 5, 1);
+    padding: 20px;
+    margin: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 100%;
+    font-style: italic;
+}
+.footer{
+    background-color: rosybrown;
+    color: black;
+    padding: 20px;
+    font-size: 150%;
+    text-align: center;
+}
+.main{
+    background-color: burlywood;
+    border: 3px skyblue;
+}
+.header{
+    background-color: crimson;
+    padding:20px;
+    position: sticky;
+}
+.img{
+    width: 250px;
+    height: 300px;
+    display:inline-block;
+    padding: 3px;
+    border: 4px skyblue;
+    border-radius: 20%;
+}
